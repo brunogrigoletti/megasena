@@ -1,0 +1,600 @@
+Number 1:
+  General frequency: 283
+  Position-based frequencies:
+    Position 1: 42
+    Position 2: 47
+    Position 3: 55
+    Position 4: 56
+    Position 5: 39
+    Position 6: 44
+
+Number 2:
+  General frequency: 292
+  Position-based frequencies:
+    Position 1: 55
+    Position 2: 45
+    Position 3: 56
+    Position 4: 43
+    Position 5: 47
+    Position 6: 46
+
+Number 3:
+  General frequency: 268
+  Position-based frequencies:
+    Position 1: 40
+    Position 2: 55
+    Position 3: 40
+    Position 4: 34
+    Position 5: 48
+    Position 6: 51
+
+Number 4:
+  General frequency: 304
+  Position-based frequencies:
+    Position 1: 59
+    Position 2: 44
+    Position 3: 54
+    Position 4: 51
+    Position 5: 47
+    Position 6: 49
+
+Number 5:
+  General frequency: 319
+  Position-based frequencies:
+    Position 1: 52
+    Position 2: 67
+    Position 3: 42
+    Position 4: 51
+    Position 5: 52
+    Position 6: 55
+
+Number 6:
+  General frequency: 291
+  Position-based frequencies:
+    Position 1: 53
+    Position 2: 53
+    Position 3: 46
+    Position 4: 41
+    Position 5: 48
+    Position 6: 50
+
+Number 7:
+  General frequency: 271
+  Position-based frequencies:
+    Position 1: 53
+    Position 2: 43
+    Position 3: 41
+    Position 4: 48
+    Position 5: 45
+    Position 6: 41
+
+Number 8:
+  General frequency: 285
+  Position-based frequencies:
+    Position 1: 41
+    Position 2: 58
+    Position 3: 45
+    Position 4: 44
+    Position 5: 43
+    Position 6: 54
+
+Number 9:
+  General frequency: 273
+  Position-based frequencies:
+    Position 1: 43
+    Position 2: 45
+    Position 3: 43
+    Position 4: 45
+    Position 5: 54
+    Position 6: 43
+
+Number 10:
+  General frequency: 339
+  Position-based frequencies:
+    Position 1: 57
+    Position 2: 63
+    Position 3: 44
+    Position 4: 55
+    Position 5: 62
+    Position 6: 58
+
+Number 11:
+  General frequency: 304
+  Position-based frequencies:
+    Position 1: 52
+    Position 2: 54
+    Position 3: 51
+    Position 4: 55
+    Position 5: 46
+    Position 6: 46
+
+Number 12:
+  General frequency: 274
+  Position-based frequencies:
+    Position 1: 42
+    Position 2: 49
+    Position 3: 50
+    Position 4: 37
+    Position 5: 53
+    Position 6: 43
+
+Number 13:
+  General frequency: 299
+  Position-based frequencies:
+    Position 1: 54
+    Position 2: 42
+    Position 3: 53
+    Position 4: 52
+    Position 5: 53
+    Position 6: 45
+
+Number 14:
+  General frequency: 280
+  Position-based frequencies:
+    Position 1: 44
+    Position 2: 40
+    Position 3: 47
+    Position 4: 45
+    Position 5: 54
+    Position 6: 50
+
+Number 15:
+  General frequency: 258
+  Position-based frequencies:
+    Position 1: 37
+    Position 2: 47
+    Position 3: 41
+    Position 4: 43
+    Position 5: 43
+    Position 6: 47
+
+Number 16:
+  General frequency: 302
+  Position-based frequencies:
+    Position 1: 43
+    Position 2: 48
+    Position 3: 43
+    Position 4: 49
+    Position 5: 61
+    Position 6: 58
+
+Number 17:
+  General frequency: 306
+  Position-based frequencies:
+    Position 1: 51
+    Position 2: 58
+    Position 3: 50
+    Position 4: 43
+    Position 5: 46
+    Position 6: 58
+
+Number 18:
+  General frequency: 276
+  Position-based frequencies:
+    Position 1: 35
+    Position 2: 47
+    Position 3: 55
+    Position 4: 52
+    Position 5: 46
+    Position 6: 41
+
+Number 19:
+  General frequency: 283
+  Position-based frequencies:
+    Position 1: 56
+    Position 2: 42
+    Position 3: 56
+    Position 4: 41
+    Position 5: 40
+    Position 6: 48
+
+Number 20:
+  General frequency: 284
+  Position-based frequencies:
+    Position 1: 52
+    Position 2: 40
+    Position 3: 48
+    Position 4: 48
+    Position 5: 50
+    Position 6: 46
+
+Number 21:
+  General frequency: 241
+  Position-based frequencies:
+    Position 1: 38
+    Position 2: 54
+    Position 3: 41
+    Position 4: 38
+    Position 5: 38
+    Position 6: 32
+
+Number 22:
+  General frequency: 258
+  Position-based frequencies:
+    Position 1: 43
+    Position 2: 49
+    Position 3: 35
+    Position 4: 40
+    Position 5: 39
+    Position 6: 52
+
+Number 23:
+  General frequency: 302
+  Position-based frequencies:
+    Position 1: 37
+    Position 2: 49
+    Position 3: 53
+    Position 4: 53
+    Position 5: 47
+    Position 6: 63
+
+Number 24:
+  General frequency: 291
+  Position-based frequencies:
+    Position 1: 49
+    Position 2: 37
+    Position 3: 52
+    Position 4: 43
+    Position 5: 57
+    Position 6: 53
+
+Number 25:
+  General frequency: 290
+  Position-based frequencies:
+    Position 1: 56
+    Position 2: 42
+    Position 3: 47
+    Position 4: 48
+    Position 5: 44
+    Position 6: 53
+
+Number 26:
+  General frequency: 238
+  Position-based frequencies:
+    Position 1: 37
+    Position 2: 48
+    Position 3: 34
+    Position 4: 40
+    Position 5: 32
+    Position 6: 47
+
+Number 27:
+  General frequency: 304
+  Position-based frequencies:
+    Position 1: 55
+    Position 2: 46
+    Position 3: 62
+    Position 4: 44
+    Position 5: 41
+    Position 6: 56
+
+Number 28:
+  General frequency: 298
+  Position-based frequencies:
+    Position 1: 62
+    Position 2: 42
+    Position 3: 50
+    Position 4: 55
+    Position 5: 53
+    Position 6: 36
+
+Number 29:
+  General frequency: 290
+  Position-based frequencies:
+    Position 1: 46
+    Position 2: 44
+    Position 3: 54
+    Position 4: 61
+    Position 5: 46
+    Position 6: 39
+
+Number 30:
+  General frequency: 304
+  Position-based frequencies:
+    Position 1: 60
+    Position 2: 43
+    Position 3: 53
+    Position 4: 48
+    Position 5: 44
+    Position 6: 56
+
+Number 31:
+  General frequency: 269
+  Position-based frequencies:
+    Position 1: 45
+    Position 2: 40
+    Position 3: 40
+    Position 4: 52
+    Position 5: 45
+    Position 6: 47
+
+Number 32:
+  General frequency: 307
+  Position-based frequencies:
+    Position 1: 59
+    Position 2: 61
+    Position 3: 44
+    Position 4: 43
+    Position 5: 49
+    Position 6: 51
+
+Number 33:
+  General frequency: 309
+  Position-based frequencies:
+    Position 1: 46
+    Position 2: 55
+    Position 3: 42
+    Position 4: 50
+    Position 5: 54
+    Position 6: 62
+
+Number 34:
+  General frequency: 315
+  Position-based frequencies:
+    Position 1: 45
+    Position 2: 41
+    Position 3: 61
+    Position 4: 57
+    Position 5: 54
+    Position 6: 57
+
+Number 35:
+  General frequency: 304
+  Position-based frequencies:
+    Position 1: 62
+    Position 2: 41
+    Position 3: 54
+    Position 4: 47
+    Position 5: 64
+    Position 6: 36
+
+Number 36:
+  General frequency: 293
+  Position-based frequencies:
+    Position 1: 47
+    Position 2: 45
+    Position 3: 49
+    Position 4: 55
+    Position 5: 51
+    Position 6: 46
+
+Number 37:
+  General frequency: 311
+  Position-based frequencies:
+    Position 1: 49
+    Position 2: 46
+    Position 3: 54
+    Position 4: 67
+    Position 5: 45
+    Position 6: 50
+
+Number 38:
+  General frequency: 308
+  Position-based frequencies:
+    Position 1: 47
+    Position 2: 40
+    Position 3: 60
+    Position 4: 53
+    Position 5: 55
+    Position 6: 53
+
+Number 39:
+  General frequency: 278
+  Position-based frequencies:
+    Position 1: 44
+    Position 2: 62
+    Position 3: 36
+    Position 4: 42
+    Position 5: 43
+    Position 6: 51
+
+Number 40:
+  General frequency: 272
+  Position-based frequencies:
+    Position 1: 35
+    Position 2: 47
+    Position 3: 39
+    Position 4: 52
+    Position 5: 50
+    Position 6: 49
+
+Number 41:
+  General frequency: 299
+  Position-based frequencies:
+    Position 1: 42
+    Position 2: 55
+    Position 3: 60
+    Position 4: 52
+    Position 5: 42
+    Position 6: 48
+
+Number 42:
+  General frequency: 303
+  Position-based frequencies:
+    Position 1: 47
+    Position 2: 56
+    Position 3: 50
+    Position 4: 44
+    Position 5: 57
+    Position 6: 49
+
+Number 43:
+  General frequency: 307
+  Position-based frequencies:
+    Position 1: 57
+    Position 2: 53
+    Position 3: 50
+    Position 4: 55
+    Position 5: 48
+    Position 6: 44
+
+Number 44:
+  General frequency: 303
+  Position-based frequencies:
+    Position 1: 58
+    Position 2: 45
+    Position 3: 49
+    Position 4: 51
+    Position 5: 59
+    Position 6: 41
+
+Number 45:
+  General frequency: 283
+  Position-based frequencies:
+    Position 1: 47
+    Position 2: 52
+    Position 3: 40
+    Position 4: 43
+    Position 5: 57
+    Position 6: 44
+
+Number 46:
+  General frequency: 302
+  Position-based frequencies:
+    Position 1: 58
+    Position 2: 49
+    Position 3: 44
+    Position 4: 48
+    Position 5: 52
+    Position 6: 51
+
+Number 47:
+  General frequency: 277
+  Position-based frequencies:
+    Position 1: 57
+    Position 2: 43
+    Position 3: 41
+    Position 4: 43
+    Position 5: 53
+    Position 6: 40
+
+Number 48:
+  General frequency: 268
+  Position-based frequencies:
+    Position 1: 35
+    Position 2: 47
+    Position 3: 51
+    Position 4: 40
+    Position 5: 46
+    Position 6: 49
+
+Number 49:
+  General frequency: 294
+  Position-based frequencies:
+    Position 1: 59
+    Position 2: 57
+    Position 3: 41
+    Position 4: 45
+    Position 5: 43
+    Position 6: 49
+
+Number 50:
+  General frequency: 285
+  Position-based frequencies:
+    Position 1: 47
+    Position 2: 49
+    Position 3: 38
+    Position 4: 49
+    Position 5: 52
+    Position 6: 50
+
+Number 51:
+  General frequency: 296
+  Position-based frequencies:
+    Position 1: 51
+    Position 2: 49
+    Position 3: 48
+    Position 4: 51
+    Position 5: 48
+    Position 6: 49
+
+Number 52:
+  General frequency: 290
+  Position-based frequencies:
+    Position 1: 39
+    Position 2: 45
+    Position 3: 48
+    Position 4: 51
+    Position 5: 57
+    Position 6: 50
+
+Number 53:
+  General frequency: 331
+  Position-based frequencies:
+    Position 1: 57
+    Position 2: 62
+    Position 3: 51
+    Position 4: 55
+    Position 5: 48
+    Position 6: 58
+
+Number 54:
+  General frequency: 301
+  Position-based frequencies:
+    Position 1: 47
+    Position 2: 51
+    Position 3: 57
+    Position 4: 53
+    Position 5: 46
+    Position 6: 47
+
+Number 55:
+  General frequency: 250
+  Position-based frequencies:
+    Position 1: 43
+    Position 2: 43
+    Position 3: 44
+    Position 4: 51
+    Position 5: 29
+    Position 6: 40
+
+Number 56:
+  General frequency: 305
+  Position-based frequencies:
+    Position 1: 50
+    Position 2: 57
+    Position 3: 63
+    Position 4: 41
+    Position 5: 45
+    Position 6: 49
+
+Number 57:
+  General frequency: 281
+  Position-based frequencies:
+    Position 1: 41
+    Position 2: 42
+    Position 3: 50
+    Position 4: 45
+    Position 5: 47
+    Position 6: 56
+
+Number 58:
+  General frequency: 277
+  Position-based frequencies:
+    Position 1: 37
+    Position 2: 49
+    Position 3: 55
+    Position 4: 49
+    Position 5: 43
+    Position 6: 44
+
+Number 59:
+  General frequency: 280
+  Position-based frequencies:
+    Position 1: 53
+    Position 2: 44
+    Position 3: 52
+    Position 4: 46
+    Position 5: 46
+    Position 6: 39
+
+Number 60:
+  General frequency: 277
+  Position-based frequencies:
+    Position 1: 49
+    Position 2: 30
+    Position 3: 45
+    Position 4: 64
+    Position 5: 51
+    Position 6: 38
+
